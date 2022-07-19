@@ -29,7 +29,7 @@ Tata cara kontribusi dapat dibaca pada laman berikut [Dokumen](https://t.co/5amY
 
 
 # Task List
-- [] *Support* csv dan format lain sebagai format file untuk menambahkan stopwords
-- [] Penghitung Stopwords otomatis di README.md
-- [] Pembaruan otomatis pada *Terakhir diperbarui* pada README.md
+- [ ] *Support* csv dan format lain sebagai format file untuk menambahkan stopwords
+- [ ] Penghitung Stopwords otomatis di README.md
+- [ ] Pembaruan otomatis pada *Terakhir diperbarui* pada README.md
 
