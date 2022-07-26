@@ -8,7 +8,7 @@ Kumpulan dataset stopwords bahasa Indonesia untuk data pre-processing Twitter
 Proyek ini di-inisialisasi oleh Braincore.id sebagai kontribusi dalam pengembangan dataset stopwords sosial media Twitter untuk memudahkan penelitian yang menggunakan dataset dari platform tersebut demi kemajuan NLP Indonesia.
 
 # Kontribusi
-Tata cara kontribusi dapat dibaca pada laman berikut [Dokumen](https://t.co/5amYqcBHO9)
+Tata cara kontribusi dapat dibaca pada dokumen berikut [ini](https://t.co/5amYqcBHO9)
 
 1. Clone terlebih dahulu git ini menggunakan command `git clone https://github.com/Braincore-id/stopwords_twitter_indo.git`
 
