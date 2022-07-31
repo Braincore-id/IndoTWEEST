@@ -1,6 +1,8 @@
 # stopwords_twitter_indo
 Kumpulan dataset stopwords bahasa Indonesia untuk data pre-processing Twitter
 
+![stopwords twitter indonesia](https://user-images.githubusercontent.com/86970816/182011948-06374828-7c2f-4a4a-9a29-4835d0c276cc.png)
+
 ==**Terakhir diperbarui 19 Juli 2022**==
 
 <hr>
