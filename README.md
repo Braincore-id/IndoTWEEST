@@ -1,9 +1,10 @@
-# stopwords_twitter_indo
-Kumpulan dataset stopwords bahasa Indonesia untuk data pre-processing Twitter
-
-![stopwords twitter indonesia](https://user-images.githubusercontent.com/86970816/182011948-06374828-7c2f-4a4a-9a29-4835d0c276cc.png)
-
-==**Terakhir diperbarui 19 Juli 2022**==
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/86970816/196216768-3e8c22b8-f674-4740-a4ce-a33a595e300a.png" width="250" height="250">
+  <h3 align="center">IndoTWEES</h3>
+  <p align="center">
+    Indonesian Tweet Stopwords
+  </p>
+</div>
 
 <hr>
 
@@ -12,7 +13,7 @@ Proyek ini di-inisialisasi oleh Braincore.id sebagai kontribusi dalam pengembang
 # Kontribusi
 Tata cara kontribusi dapat dibaca pada dokumen berikut [ini](https://t.co/5amYqcBHO9)
 
-1. Clone terlebih dahulu git ini menggunakan command `git clone https://github.com/Braincore-id/stopwords_twitter_indo.git`
+1. Clone terlebih dahulu git ini menggunakan command `git clone https://github.com/Braincore-id/IndoTWEES.git`
 
 2. **Bagi yang memang sudah memiliki kumpulan stopwords yang ingin ditambahkan dapat melewati tahap 2**. Jalankan [Colab](https://colab.research.google.com/drive/13hWqc5Ltrv4f6dmtqAIZhtJbviDgD81u?usp=sharing) berikut untuk dijadikan acuan *stopwords* apa saja yang ingin dimasukkan
 
