@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Braincore-id/IndoTWEEST/main/logo.png" width="250" height="250">
+  <img src="https://raw.githubusercontent.com/Braincore-id/IndoTWEEST/main/img/logo.png" width="250" height="250">
   <h3 align="center">IndoTWEEST</h3>
   <p align="center">
     Indonesian Tweet Stopwords
@@ -11,7 +11,7 @@
 Proyek ini di-inisialisasi oleh Braincore.id sebagai kontribusi dalam pengembangan dataset stopwords sosial media Twitter untuk memudahkan penelitian yang menggunakan dataset dari platform tersebut demi kemajuan NLP Indonesia.
 
 # Kontribusi
-Tata cara kontribusi dapat dibaca pada dokumen berikut [ini](https://t.co/5amYqcBHO9)
+Tata cara kontribusi dapat dibaca pada dokumen berikut [ini](https://docs.google.com/document/d/1_PNpGe5q22N0qkY7aN8BhDf2bsHhEehSSYoyw50_myQ/edit?usp=sharing)
 
 1. Clone terlebih dahulu git ini menggunakan command `git clone https://github.com/Braincore-id/IndoTWEES.git`
 
