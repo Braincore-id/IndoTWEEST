@@ -1,6 +1,6 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/86970816/196216768-3e8c22b8-f674-4740-a4ce-a33a595e300a.png" width="250" height="250">
-  <h3 align="center">IndoTWEES</h3>
+  <img src="https://raw.githubusercontent.com/Braincore-id/IndoTWEEST/main/logo.png" width="250" height="250">
+  <h3 align="center">IndoTWEEST</h3>
   <p align="center">
     Indonesian Tweet Stopwords
   </p>
