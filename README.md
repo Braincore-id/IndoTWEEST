@@ -26,7 +26,7 @@ Tata cara kontribusi dapat dibaca pada dokumen berikut <a href="https://docs.goo
 ...
 
 ```
-4. Jalankan perintah `python add_csv.py --new_stopwords <file.txt>`. Untuk lebih jelas mengenai *argparse* apa saja yang dapat digunakan bisa menggunakan perintah `python add_csv.py --help`
+4. Jalankan perintah `python src/add_csv.py --new_stopwords <file.txt>`. Untuk lebih jelas mengenai *argparse* apa saja yang dapat digunakan bisa menggunakan perintah `python src/add_csv.py --help`
 
 5. Lakukan *pull request* sehingga hasil stopwords akan ditambahkan kedalam final stopwords
 
