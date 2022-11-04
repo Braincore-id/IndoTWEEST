@@ -11,7 +11,7 @@
 Proyek ini di-inisialisasi oleh Braincore.id sebagai kontribusi dalam pengembangan dataset stopwords sosial media Twitter untuk memudahkan penelitian yang menggunakan dataset dari platform tersebut demi kemajuan NLP Indonesia.
 
 # Kontribusi
-Tata cara kontribusi dapat dibaca pada dokumen berikut [ini](https://docs.google.com/document/d/1_PNpGe5q22N0qkY7aN8BhDf2bsHhEehSSYoyw50_myQ/edit?usp=sharing)
+Tata cara kontribusi dapat dibaca pada dokumen berikut <a href="https://docs.google.com/document/d/1_PNpGe5q22N0qkY7aN8BhDf2bsHhEehSSYoyw50_myQ/edit?usp=sharing" target="_blank">Ini</a>
 
 1. Clone terlebih dahulu git ini menggunakan command `git clone https://github.com/Braincore-id/IndoTWEES.git`
 
