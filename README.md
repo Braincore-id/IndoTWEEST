@@ -15,7 +15,7 @@ Tata cara kontribusi dapat dibaca pada dokumen berikut <a href="https://docs.goo
 
 1. Clone terlebih dahulu git ini menggunakan command `git clone https://github.com/Braincore-id/IndoTWEES.git`
 
-2. **Bagi yang memang sudah memiliki kumpulan stopwords yang ingin ditambahkan dapat melewati tahap 2**. Jalankan [Colab](https://colab.research.google.com/drive/13hWqc5Ltrv4f6dmtqAIZhtJbviDgD81u?usp=sharing) berikut untuk dijadikan acuan *stopwords* apa saja yang ingin dimasukkan
+2. **Bagi yang memang sudah memiliki kumpulan stopwords yang ingin ditambahkan dapat melewati tahap 2**. Jalankan [Colab](https://colab.research.google.com/drive/1bSHsso2kJfvbxH5Gs70RtrLQQdz13J6T?usp=sharing) berikut untuk dijadikan acuan *stopwords* apa saja yang ingin dimasukkan
 
 3. Setelah mendapatkan kumpulan *stopwords*, masukkan kumpulan *stopwords* tersebut kedalam file **.txt** dengan format sebagai berikut
 ```
