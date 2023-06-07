@@ -36,3 +36,8 @@ Tata cara kontribusi dapat dibaca pada dokumen berikut <a href="https://docs.goo
 - [ ] Penghitung Stopwords otomatis di README.md
 - [ ] Pembaruan otomatis pada *Terakhir diperbarui* pada README.md
 
+# Contributors
+
+<a href="https://github.com/Braincore-id/IndoTWEEST/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=Braincore-id/IndoTWEEST" alt="contributors" />
+</a>
